@@ -4,11 +4,7 @@ A Java-based parking management system with a graphical user interface for effic
 
 ## 🎥 Demo Video
 
-
-
-Uploading Demo.mp4…
-
-
+https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474
 
 ## 📸 Screenshots
 
