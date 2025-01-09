@@ -1,64 +1,51 @@
-# Parking Area Manager
+# Vehicle Parking Management System
 
-## Course Project Statement
-**Vehicle Parking Problem - Level 2**
+A Java-based parking management system with a graphical user interface for efficient vehicle parking management.
 
-This project was developed as part of a course requirement to create a Java program for managing a parking area. The system handles a 100-meter parking space, dynamically allocating spots for vehicles based on their length and available space.
+## 🎥 Demo Video
 
-## Project Description
+https://github.com/Omar7001-B/Vehicle-Parking-Project/raw/main/Screenshots/Demo.mp4
 
-Parking Area Manager is a Java-based solution that efficiently manages a parking facility. The system intelligently handles space allocation, vehicle tracking, and fee calculation based on parking duration.
+## 📸 Screenshots
 
-### Vehicle Types and Pricing
-| Vehicle Type | Default Length | Hourly Rate |
-|-------------|----------------|-------------|
-| Truck       | 7m            | 15/hour     |
-| Bus         | 10m           | 15/hour     |
-| Car         | 5m            | 10/hour     |
-| Motorcycle  | 2m            | 5/hour      |
+Here's a visual walkthrough of the application:
 
-### Key Features
+### 1. Main Interface
+![Main Interface](Screenshots/1.png)
 
-- **Smart Space Allocation**: Automatically assigns parking spots based on vehicle length
-- **Dynamic Space Management**: Merges adjacent free spaces for optimal space utilization
-- **Vehicle Tracking**: Manages vehicles through unique IDs
-- **Automated Billing**: Calculates parking fees based on duration and vehicle type
-- **GUI Interface**: User-friendly interface with dark mode theme
-- **Real-time Status**: Shows current parking occupancy and available spaces
+### 2. Add Vehicle
+![Vehicle Entry](Screenshots/2.png)
 
-## Usage
+### 3. Choose Vehicle Type
+![Parking Management](Screenshots/3.png)
 
-1. **Adding a Vehicle**:
-   - Select "Add Vehicle" option
-   - Enter vehicle type (truck/bus/car/motorcycle)
-   - Provide vehicle ID
-   - System will allocate appropriate space if available
+### 4. Release Vehicle
+![Vehicle Status](Screenshots/4.png)
 
-2. **Releasing a Vehicle**:
-   - Choose "Release Vehicle" option
-   - Enter vehicle ID
-   - Input parking duration
-   - System calculates fee based on vehicle type and duration
+### 5. Release Vehicle
+![Parking Overview](Screenshots/5.png)
 
-3. **Viewing Status**:
-   - Select "Show Status" to view:
-     - Currently occupied spaces
-     - Available parking spots
-     - Space distribution
+### 6. Available Spaces
+![Exit Management](Screenshots/6.png)
 
-## Getting Started
+## 🚀 Features
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Omar7001-B/Vehicle-Parking-Project.git
-   ```
-2. Navigate to the project directory
-3. Run the application
+- Intuitive graphical user interface
+- Real-time parking space management
+- Multiple vehicle type support
+- Efficient entry and exit system
+- Visual representation of parking spaces
 
-## Contributing
+## 🛠️ Technologies Used
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+- Java
+- Swing (GUI Framework)
+- Object-Oriented Programming
 
-## License
+## 👨‍💻 Author
 
-This project is open source and available under the MIT License.
+- [@Omar7001-B](https://github.com/Omar7001-B)
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
