@@ -30,31 +30,44 @@ A Java-based parking management system that efficiently manages a 100-meter park
 - Swing (GUI)
 - OOP Principles
 
-
 ## Screenshots 📸
 
-Here's a visual walkthrough of the application:
+<div align="center">
+<table>
+  <tr>
+    <td><img src="Screenshots/1.png" alt="Main Interface" width="400"/></td>
+    <td><img src="Screenshots/2.png" alt="Add Vehicle" width="400"/></td>
+  </tr>
+  <tr>
+    <td><em>Main Interface</em></td>
+    <td><em>Add Vehicle</em></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/3.png" alt="Choose Vehicle Type" width="400"/></td>
+    <td><img src="Screenshots/4.png" alt="Release Vehicle" width="400"/></td>
+  </tr>
+  <tr>
+    <td><em>Choose Vehicle Type</em></td>
+    <td><em>Release Vehicle</em></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/5.png" alt="Parking Overview" width="400"/></td>
+    <td><img src="Screenshots/6.png" alt="Available Spaces" width="400"/></td>
+  </tr>
+  <tr>
+    <td><em>Parking Overview</em></td>
+    <td><em>Available Spaces</em></td>
+  </tr>
+</table>
+</div>
 
-### 1. Main Interface
-![Main Interface](Screenshots/1.png)
+## Demo Video 🎬
+Watch the full demonstration of the Vehicle Parking Management System in action:
 
-### 2. Add Vehicle
-![Vehicle Entry](Screenshots/2.png)
-
-### 3. Choose Vehicle Type
-![Parking Management](Screenshots/3.png)
-
-### 4. Release Vehicle
-![Vehicle Status](Screenshots/4.png)
-
-### 5. Release Vehicle
-![Parking Overview](Screenshots/5.png)
-
-### 6. Available Spaces
-![Exit Management](Screenshots/6.png)
-
-
-## Demo 🎥
-
-https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474
+<div align="center">
+  
+  [![Demo Video](Screenshots/1.png)](https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474)
+  
+  [Click to watch the demo video](https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474)
+</div>
 
