@@ -1,12 +1,37 @@
-# Vehicle Parking Management System
+# Vehicle Parking Management System 🚗
 
-A Java-based parking management system with a graphical user interface for efficient vehicle parking management.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com)
+[![Swing](https://img.shields.io/badge/Swing-GUI-blue)](https://docs.oracle.com/javase/tutorial/uiswing/)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/Omar7001-B/Vehicle-Parking-Project)
+[![Author](https://img.shields.io/badge/Author-Omar7001--B-green)](https://github.com/Omar7001-B)
 
-## 🎥 Demo Video
+A Java-based parking management system that efficiently manages a 100-meter parking space with automated space allocation and fee calculation.
 
-https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474
+## Project Requirements 📋
 
-## 📸 Screenshots
+### Core Features
+- Dynamic space allocation based on vehicle length
+- Automatic merging of adjacent free spaces
+- Real-time parking status monitoring
+- Fee calculation based on duration
+
+### Vehicle Specifications
+
+| Vehicle Type | Length (m) | Rate (per hour) |
+|-------------|------------|-----------------|
+| 🚛 Truck    | 7         | $15            |
+| 🚌 Bus      | 10        | $15            |
+| 🚗 Car      | 5         | $10            |
+| 🏍️ Motorcycle| 2         | $5             |
+
+## Tech Stack 🛠️
+- Java
+- Swing (GUI)
+- OOP Principles
+
+
+## Screenshots 📸
 
 Here's a visual walkthrough of the application:
 
@@ -28,24 +53,13 @@ Here's a visual walkthrough of the application:
 ### 6. Available Spaces
 ![Exit Management](Screenshots/6.png)
 
-## 🚀 Features
 
-- Intuitive graphical user interface
-- Real-time parking space management
-- Multiple vehicle type support
-- Efficient entry and exit system
-- Visual representation of parking spaces
+## Demo 🎥
 
-## 🛠️ Technologies Used
+https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474
 
-- Java
-- Swing (GUI Framework)
-- Object-Oriented Programming
+## Author 👨‍💻
+[@Omar7001-B](https://github.com/Omar7001-B)
 
-## 👨‍💻 Author
-
-- [@Omar7001-B](https://github.com/Omar7001-B)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License 📄
+MIT License
