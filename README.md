@@ -58,8 +58,3 @@ Here's a visual walkthrough of the application:
 
 https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474
 
-## Author 👨‍💻
-[@Omar7001-B](https://github.com/Omar7001-B)
-
-## License 📄
-MIT License
