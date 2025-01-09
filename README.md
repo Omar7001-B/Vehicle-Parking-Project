@@ -4,7 +4,11 @@ A Java-based parking management system with a graphical user interface for effic
 
 ## 🎥 Demo Video
 
-https://github.com/Omar7001-B/Vehicle-Parking-Project/raw/main/Screenshots/Demo.mp4
+
+
+Uploading Demo.mp4…
+
+
 
 ## 📸 Screenshots
 
