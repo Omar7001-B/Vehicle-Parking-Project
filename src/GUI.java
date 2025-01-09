@@ -42,7 +42,7 @@ public class GUI {
         GUI.frame.add(releaseVehicle, BorderLayout.CENTER);
         GUI.frame.add(showParkingStatus, BorderLayout.CENTER);
         GUI.frame.add(showTotalMoney, BorderLayout.CENTER);
-        JLabel names = new JLabel("Names : Khaled & Omar");
+        JLabel names = new JLabel("Names : Omar");
         // Make names at center
         names.setHorizontalAlignment(JLabel.CENTER);
         names.setBounds(45, 10, 200, 30);
