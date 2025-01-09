@@ -64,10 +64,7 @@ A Java-based parking management system that efficiently manages a 100-meter park
 ## Demo Video 🎬
 Watch the full demonstration of the Vehicle Parking Management System in action:
 
-<div align="center">
-  
+<div align="center"> 
   [![Demo Video](Screenshots/1.png)](https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474)
-  
-  [Click to watch the demo video](https://github.com/user-attachments/assets/ef83ce44-a124-4027-ad5c-3102ca54f474)
 </div>
 
